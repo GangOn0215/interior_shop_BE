@@ -1,4 +1,4 @@
-package amo.java;
+package server.api.java;
 
 public class ChainingMain {
     public static void main(String[] args) {

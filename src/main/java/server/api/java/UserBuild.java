@@ -1,8 +1,7 @@
-package amo.java;
+package server.api.java;
 
 import lombok.Builder;
 import lombok.Getter;
-import lombok.Setter;
 
 @Getter
 @Builder

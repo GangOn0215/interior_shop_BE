@@ -1,4 +1,4 @@
-package amo.java;
+package server.api.java;
 
 import lombok.Getter;
 
